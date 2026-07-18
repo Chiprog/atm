@@ -1,0 +1,9 @@
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/uninstall.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/c_atm_description_uninstall.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/test.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/edit_cache.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/rebuild_cache.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/list_install_components.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/install.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/install/local.dir
+/home/laura/auroraPractice/atm_ws/src/build/c_atm_description/CMakeFiles/install/strip.dir

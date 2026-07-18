@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<robot name="atm">
+    <gazebo reference="left_tire">
+        <mu1>10000000.0</mu1>
+        <mu2>10000000.0</mu2>
+        <kp>10000000.0</kp>
+        <kd>10</kd>
+        <mindepth>0.001</mindepth>
+    </gazebo>
+    <gazebo reference="right_tire">
+        <mu1>10000000.0</mu1>
+        <mu2>10000000.0</mu2>
+        <kp>10000000.0</kp>
+        <kd>10</kd>
+        <mindepth>0.001</mindepth>
+    </gazebo>
+    <gazebo reference="caster_back_link">
+        <mu1>0.001</mu1>
+        <mu2>0.001</mu2>
+        <kp>10000000.0</kp>
+        <kd>100</kd>
+        <mindepth>0.001</mindepth>
+    </gazebo> 
+</robot>
